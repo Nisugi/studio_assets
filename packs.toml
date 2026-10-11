@@ -9,6 +9,7 @@ version = "1"
 size = 915910
 sha256 = "adb8398b2f1a99231b5c0886633323a984fe0ade5695978023d98ab57c56320a"
 url = "https://github.com/Nisugi/studio_assets/releases/download/doll_nishi-1/doll_nishi.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_nishi.png"
 
 [[pack]]
 id = "doll_stealth_female"
@@ -18,6 +19,7 @@ version = "1"
 size = 522402
 sha256 = "009ee42edeab66c642c7929da92f71d88401ad3a1610a128027972dbb860c905"
 url = "https://github.com/Nisugi/studio_assets/releases/download/doll_stealth_female-1/doll_stealth_female.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_stealth_female.png"
 
 [[pack]]
 id = "doll_stealth_male"
@@ -27,6 +29,7 @@ version = "1"
 size = 558863
 sha256 = "1372ca1dcce5a18be319adc15e5483673f0b00854fce87a16ad785d3ad9a3ebf"
 url = "https://github.com/Nisugi/studio_assets/releases/download/doll_stealth_male-1/doll_stealth_male.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_stealth_male.png"
 
 [[pack]]
 id = "doll_stealthblue_female"
@@ -36,6 +39,7 @@ version = "1"
 size = 627344
 sha256 = "d6816c783c9b40982301930770e7e9d84377ee45fc8cced89f440f7437238344"
 url = "https://github.com/Nisugi/studio_assets/releases/download/doll_stealthblue_female-1/doll_stealthblue_female.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_stealthblue_female.png"
 
 [[pack]]
 id = "doll_stealthblue_male"
@@ -45,3 +49,4 @@ version = "1"
 size = 623594
 sha256 = "07bb50dccf91b81cd103fdf72a8519b8c5b584d0ce9aacba68d8aa68cbeb8fe1"
 url = "https://github.com/Nisugi/studio_assets/releases/download/doll_stealthblue_male-1/doll_stealthblue_male.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_stealthblue_male.png"
