@@ -28,6 +28,7 @@ not installed; the installed version lives in the ledger.
 |---|---|---|
 | `dolls` | `doll_<picture>` | `global/images/dolls/<picture>.png`: an injury-doll picture, its calibration inside the PNG, and any overlays it has |
 | `frames` | `frame_<recipe>` | `global/images/frames/packs/<id>/`: a frame recipe and the parts it names |
+| `compass` | `compass_<set>` | `global/images/compass/<set>/`: `compass.toml` (its `layout`, `hub`, and the `ways` it lights), `rose.png` at rest, and `<way>.png` for each way -- `n`, `ne`, `e`, `se`, `s`, `sw`, `w`, `nw`, `up`, `down`, `out` -- each the rose's size, drawn over it while the room has that way out |
 
 ## Making a pack
 
