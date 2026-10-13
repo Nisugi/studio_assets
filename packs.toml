@@ -392,6 +392,276 @@ url = "https://github.com/Nisugi/studio_assets/releases/download/compass_wicker-
 preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/compass_wicker.png"
 
 [[pack]]
+id = "doll_amber"
+title = "amber"
+kind = "dolls"
+version = "1"
+size = 2788851
+sha256 = "17557cdf9bc720ae2f873774434d5c78c3bb6f1b3d87528ce471ca6da682dcf9"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_amber-1/doll_amber.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_amber.png"
+
+[[pack]]
+id = "doll_bamboo"
+title = "bamboo"
+kind = "dolls"
+version = "1"
+size = 2692187
+sha256 = "74142b5c50692932c8511de43f278c5c3b7c2c1df11fd6c6d5f4f3e408c53013"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_bamboo-1/doll_bamboo.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_bamboo.png"
+
+[[pack]]
+id = "doll_birch_bark"
+title = "birch_bark"
+kind = "dolls"
+version = "1"
+size = 2741766
+sha256 = "7d997f5f3e436c4e60fb104a9ef39b98425fa425574a84be10ddbf0ecfb50972"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_birch_bark-1/doll_birch_bark.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_birch_bark.png"
+
+[[pack]]
+id = "doll_blood_iron"
+title = "blood_iron"
+kind = "dolls"
+version = "1"
+size = 2742928
+sha256 = "ba0052069f149a054d9f36eb666263c1e472bf5da4276b0e9abc80d85fd565c3"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_blood_iron-1/doll_blood_iron.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_blood_iron.png"
+
+[[pack]]
+id = "doll_bone"
+title = "bone"
+kind = "dolls"
+version = "1"
+size = 2565170
+sha256 = "f3622b6329f9c706eb085f8b5b7166aa5be5bf30c589e20fd80d3f879cdf760f"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_bone-1/doll_bone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_bone.png"
+
+[[pack]]
+id = "doll_candle_wax"
+title = "candle_wax"
+kind = "dolls"
+version = "1"
+size = 2301946
+sha256 = "40cf6dd6e3b4cca32616a4611fcd701d5c41d4da67b614677d3cbe9da6ac7fbe"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_candle_wax-1/doll_candle_wax.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_candle_wax.png"
+
+[[pack]]
+id = "doll_chain"
+title = "chain"
+kind = "dolls"
+version = "1"
+size = 3204507
+sha256 = "1f3d26782398d1e629072657b4b6094c05688c7b9d7c663d79ce86db26f4b74d"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_chain-1/doll_chain.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_chain.png"
+
+[[pack]]
+id = "doll_clerics_gold_and_marble"
+title = "clerics_gold_and_marble"
+kind = "dolls"
+version = "1"
+size = 2451641
+sha256 = "e610fe6fca1b66d9712aaec3f48da4ad5f6c218e8d5dcc10684e13f0eba379ca"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_clerics_gold_and_marble-1/doll_clerics_gold_and_marble.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_clerics_gold_and_marble.png"
+
+[[pack]]
+id = "doll_clockwork"
+title = "clockwork"
+kind = "dolls"
+version = "1"
+size = 2819674
+sha256 = "6d7646f88dcb48a5ec8c02488d1f6f50fa54de04c1b89b78904afbb07748278c"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_clockwork-1/doll_clockwork.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_clockwork.png"
+
+[[pack]]
+id = "doll_copper_pipe"
+title = "copper_pipe"
+kind = "dolls"
+version = "1"
+size = 2744625
+sha256 = "7b672fd7e8ec4e32069bc5731b023ebd8cc62c1af986f3de7680258d593bdca9"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_copper_pipe-1/doll_copper_pipe.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_copper_pipe.png"
+
+[[pack]]
+id = "doll_dark_bronze_antique"
+title = "dark_bronze_antique"
+kind = "dolls"
+version = "1"
+size = 2818342
+sha256 = "ab233cd531dc6cf800c2f448be3f2008d30b33ece414df994767538005f79ab6"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_dark_bronze_antique-1/doll_dark_bronze_antique.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_dark_bronze_antique.png"
+
+[[pack]]
+id = "doll_dragon_scale"
+title = "dragon_scale"
+kind = "dolls"
+version = "1"
+size = 2972748
+sha256 = "14c67ef76684a2375be722890f47ccbacaac98522dbd73560bd903f7ff3be24a"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_dragon_scale-1/doll_dragon_scale.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_dragon_scale.png"
+
+[[pack]]
+id = "doll_dwarven_granite"
+title = "dwarven_granite"
+kind = "dolls"
+version = "1"
+size = 2858337
+sha256 = "09c3e11a394120dc56057aeb14ac0453cba81af5f1dbf3e20bc817b71004d13d"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_dwarven_granite-1/doll_dwarven_granite.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_dwarven_granite.png"
+
+[[pack]]
+id = "doll_elven_silver"
+title = "elven_silver"
+kind = "dolls"
+version = "1"
+size = 2584765
+sha256 = "eeb0759883e19dfb80a53da44c896da93506e636d5a7f6444c95367ac1225582"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_elven_silver-1/doll_elven_silver.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_elven_silver.png"
+
+[[pack]]
+id = "doll_empaths_rosewood"
+title = "empaths_rosewood"
+kind = "dolls"
+version = "1"
+size = 2753236
+sha256 = "5094778c5435f0b16950a88f53a1e17f63bb9b428e226052e02e039154413920"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_empaths_rosewood-1/doll_empaths_rosewood.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_empaths_rosewood.png"
+
+[[pack]]
+id = "doll_frost_steel"
+title = "frost_steel"
+kind = "dolls"
+version = "1"
+size = 3154737
+sha256 = "ad655ef16d622205a4b8b50167b412508308b9b8db51761d851281e9de19c58e"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_frost_steel-1/doll_frost_steel.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_frost_steel.png"
+
+[[pack]]
+id = "doll_fur_and_fang"
+title = "fur_and_fang"
+kind = "dolls"
+version = "1"
+size = 2924875
+sha256 = "471e28f1cfe5550774c4cd85f5159a4ac281ecc6538722ec611bfb428c4be9d4"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_fur_and_fang-1/doll_fur_and_fang.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_fur_and_fang.png"
+
+[[pack]]
+id = "doll_giantkin_timber"
+title = "giantkin_timber"
+kind = "dolls"
+version = "1"
+size = 2763407
+sha256 = "3f203c5cae45df5b05be53667ebef109bb36f88f41386682c5607eead9c79974"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_giantkin_timber-1/doll_giantkin_timber.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_giantkin_timber.png"
+
+[[pack]]
+id = "doll_gilded_white"
+title = "gilded_white"
+kind = "dolls"
+version = "1"
+size = 2152213
+sha256 = "a2a88c195a19f17fd013b89274df9ea3f24a5e5b6212e614f2b56caa225bd60b"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_gilded_white-1/doll_gilded_white.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_gilded_white.png"
+
+[[pack]]
+id = "doll_grey_relief"
+title = "grey_relief"
+kind = "dolls"
+version = "1"
+size = 2691661
+sha256 = "ca8296c9fb77a347c643df1e911b2b1500d0da43ad6f86ba2a9924017f2c6f73"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_grey_relief-1/doll_grey_relief.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_grey_relief.png"
+
+[[pack]]
+id = "doll_honeycomb"
+title = "honeycomb"
+kind = "dolls"
+version = "1"
+size = 2918775
+sha256 = "23bbf002afb480d5a2b562654ce88471fad97fc63402f02ed5e4fd8c510a3ca6"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_honeycomb-1/doll_honeycomb.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_honeycomb.png"
+
+[[pack]]
+id = "doll_ice"
+title = "ice"
+kind = "dolls"
+version = "1"
+size = 2861263
+sha256 = "d9a3db79b0d92dbcc929d6ecbaee6741f19426c12632109df146bb63363d6a5c"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_ice-1/doll_ice.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_ice.png"
+
+[[pack]]
+id = "doll_iron_and_brass"
+title = "iron_and_brass"
+kind = "dolls"
+version = "1"
+size = 2792816
+sha256 = "9083ad1882bd480851ca630dda8b0246c1ad9e090b8dc31868f58059386945cb"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_iron_and_brass-1/doll_iron_and_brass.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_iron_and_brass.png"
+
+[[pack]]
+id = "doll_jade"
+title = "jade"
+kind = "dolls"
+version = "1"
+size = 2648320
+sha256 = "5dd85a2f20f6aa8c17380fcdc783bb179f29d1a20cc157d0fb69b5daf6de3b42"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_jade-1/doll_jade.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_jade.png"
+
+[[pack]]
+id = "doll_krolvin_ship_wood"
+title = "krolvin_ship_wood"
+kind = "dolls"
+version = "1"
+size = 2855391
+sha256 = "251f54450abbc528dbb90065941959501acc67c621a5844ebf10c9ee5eeaea7f"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_krolvin_ship_wood-1/doll_krolvin_ship_wood.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_krolvin_ship_wood.png"
+
+[[pack]]
+id = "doll_mahogany_and_gold"
+title = "mahogany_and_gold"
+kind = "dolls"
+version = "1"
+size = 2722964
+sha256 = "201720d2bc4c569c628993d4ad725f544ca9bc6f2b73234db5ded7d32303b1b5"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_mahogany_and_gold-1/doll_mahogany_and_gold.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_mahogany_and_gold.png"
+
+[[pack]]
+id = "doll_moonstone"
+title = "moonstone"
+kind = "dolls"
+version = "1"
+size = 2575067
+sha256 = "f929ed59a933dd620a0c46f3eeb94d1c3f8dd0a142918635213e1998c9a5a285"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_moonstone-1/doll_moonstone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_moonstone.png"
+
+[[pack]]
 id = "doll_nishi"
 title = "nishi"
 kind = "dolls"
@@ -402,41 +672,201 @@ url = "https://github.com/Nisugi/studio_assets/releases/download/doll_nishi-1/do
 preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_nishi.png"
 
 [[pack]]
-id = "doll_stealth_female"
-title = "stealth_female"
+id = "doll_paper_and_ink"
+title = "paper_and_ink"
 kind = "dolls"
 version = "1"
-size = 522402
-sha256 = "009ee42edeab66c642c7929da92f71d88401ad3a1610a128027972dbb860c905"
-url = "https://github.com/Nisugi/studio_assets/releases/download/doll_stealth_female-1/doll_stealth_female.zip"
-preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_stealth_female.png"
+size = 2816803
+sha256 = "9e57eef051ea94a8b78f90a8a8047596ca7dcbead0401129c1a2695d7ad83e29"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_paper_and_ink-1/doll_paper_and_ink.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_paper_and_ink.png"
 
 [[pack]]
-id = "doll_stealth_male"
-title = "stealth_male"
+id = "doll_pearl"
+title = "pearl"
 kind = "dolls"
 version = "1"
-size = 558863
-sha256 = "1372ca1dcce5a18be319adc15e5483673f0b00854fce87a16ad785d3ad9a3ebf"
-url = "https://github.com/Nisugi/studio_assets/releases/download/doll_stealth_male-1/doll_stealth_male.zip"
-preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_stealth_male.png"
+size = 2525479
+sha256 = "aaec2fc914823c697721fd6c04561801c47e2b7f77a98d64fc5f44578bfda21d"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_pearl-1/doll_pearl.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_pearl.png"
 
 [[pack]]
-id = "doll_stealthblue_female"
-title = "stealthblue_female"
+id = "doll_rangers_oak"
+title = "rangers_oak"
 kind = "dolls"
 version = "1"
-size = 627344
-sha256 = "d6816c783c9b40982301930770e7e9d84377ee45fc8cced89f440f7437238344"
-url = "https://github.com/Nisugi/studio_assets/releases/download/doll_stealthblue_female-1/doll_stealthblue_female.zip"
-preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_stealthblue_female.png"
+size = 2848041
+sha256 = "c84f4e1175f0aa6023872cf30a3212c069a651fd333a361cc93355a156d29818"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_rangers_oak-1/doll_rangers_oak.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_rangers_oak.png"
 
 [[pack]]
-id = "doll_stealthblue_male"
-title = "stealthblue_male"
+id = "doll_red_lacquer"
+title = "red_lacquer"
 kind = "dolls"
 version = "1"
-size = 623594
-sha256 = "07bb50dccf91b81cd103fdf72a8519b8c5b584d0ce9aacba68d8aa68cbeb8fe1"
-url = "https://github.com/Nisugi/studio_assets/releases/download/doll_stealthblue_male-1/doll_stealthblue_male.zip"
-preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_stealthblue_male.png"
+size = 2364191
+sha256 = "b049f5855ed3bda65fe5732d8b7506092fa651e210559a0394ebb276b7124d25"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_red_lacquer-1/doll_red_lacquer.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_red_lacquer.png"
+
+[[pack]]
+id = "doll_rogues_black_leather"
+title = "rogues_black_leather"
+kind = "dolls"
+version = "1"
+size = 2578575
+sha256 = "3c764e38b077e45cdf41ba37e5c7b5ada980632f0bfbf0a6367c247d5684d28e"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_rogues_black_leather-1/doll_rogues_black_leather.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_rogues_black_leather.png"
+
+[[pack]]
+id = "doll_rotting_wood"
+title = "rotting_wood"
+kind = "dolls"
+version = "1"
+size = 2974622
+sha256 = "b08df1e1e7d727c1b452f806b8dcefe2887a05abd0b22e181c75eae495ac448b"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_rotting_wood-1/doll_rotting_wood.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_rotting_wood.png"
+
+[[pack]]
+id = "doll_runestone"
+title = "runestone"
+kind = "dolls"
+version = "1"
+size = 2776146
+sha256 = "1081c0f432c9451df7997f7e5c53948d2962d3d30dbdb70eeabe11bf334cb287"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_runestone-1/doll_runestone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_runestone.png"
+
+[[pack]]
+id = "doll_sandstone"
+title = "sandstone"
+kind = "dolls"
+version = "1"
+size = 2846084
+sha256 = "4330f1082811b786a348bc5fc1f07e9d40a6f4447b637121a0f5eeb31fd98a30"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_sandstone-1/doll_sandstone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_sandstone.png"
+
+[[pack]]
+id = "doll_seashell"
+title = "seashell"
+kind = "dolls"
+version = "1"
+size = 2872975
+sha256 = "43302d1bea5e3c53b8ee8b87c83d4594dcdb7e458b115c8972d36ac3a9806009"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_seashell-1/doll_seashell.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_seashell.png"
+
+[[pack]]
+id = "doll_sorcerers_obsidian"
+title = "sorcerers_obsidian"
+kind = "dolls"
+version = "1"
+size = 2580872
+sha256 = "322ac6a3b1bcf7f1d2c73a75209fcebeb223ac511a4734d0001bacbdb639a74c"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_sorcerers_obsidian-1/doll_sorcerers_obsidian.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_sorcerers_obsidian.png"
+
+[[pack]]
+id = "doll_spider_silk"
+title = "spider_silk"
+kind = "dolls"
+version = "1"
+size = 3028104
+sha256 = "b15a3b543383b8f7c852a90a3ae604ed98f9d0dc089b95113174ed4b49d07c97"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_spider_silk-1/doll_spider_silk.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_spider_silk.png"
+
+[[pack]]
+id = "doll_stained_glass"
+title = "stained_glass"
+kind = "dolls"
+version = "1"
+size = 2676698
+sha256 = "717dee939c77ceab910331269ec16e561a76b69c91bd4bdd52d1317cd825b86b"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_stained_glass-1/doll_stained_glass.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_stained_glass.png"
+
+[[pack]]
+id = "doll_stealth"
+title = "stealth"
+kind = "dolls"
+version = "1"
+size = 1080705
+sha256 = "7643a33e51b5e49a673ec9e19cb51ab112f7fd02e887d91b84d3f8a1f50b146a"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_stealth-1/doll_stealth.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_stealth.png"
+
+[[pack]]
+id = "doll_stealthblue"
+title = "stealthblue"
+kind = "dolls"
+version = "1"
+size = 1250542
+sha256 = "771b5b3551979576106401f60b6bea500b74fd54b937011fd6af63ab234b2385"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_stealthblue-1/doll_stealthblue.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_stealthblue.png"
+
+[[pack]]
+id = "doll_tarnished_silver"
+title = "tarnished_silver"
+kind = "dolls"
+version = "1"
+size = 2844907
+sha256 = "f57ca364127d532cf3636efefa07169bde1e06f040452391f624bcc13ba3f4ca"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_tarnished_silver-1/doll_tarnished_silver.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_tarnished_silver.png"
+
+[[pack]]
+id = "doll_thorn"
+title = "thorn"
+kind = "dolls"
+version = "1"
+size = 2995712
+sha256 = "c4325dcbb4eb4768996d7214db68be9530b0f0dd116e26b7d3baaf3718da5b64"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_thorn-1/doll_thorn.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_thorn.png"
+
+[[pack]]
+id = "doll_veil_iron"
+title = "veil_iron"
+kind = "dolls"
+version = "1"
+size = 2548596
+sha256 = "e28b29f5d3ba45026052ba6a6668d3874776ea18e4b49b701b9bceced958945b"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_veil_iron-1/doll_veil_iron.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_veil_iron.png"
+
+[[pack]]
+id = "doll_volcanic_rock"
+title = "volcanic_rock"
+kind = "dolls"
+version = "1"
+size = 2820877
+sha256 = "9a78d601b026e5602d4b00cacaa7c1320513c97c41fa3b6788da9ad937b9c888"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_volcanic_rock-1/doll_volcanic_rock.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_volcanic_rock.png"
+
+[[pack]]
+id = "doll_warriors_steel"
+title = "warriors_steel"
+kind = "dolls"
+version = "1"
+size = 2673139
+sha256 = "1dcc2e9b7a2eaad6951d800c31b047ef4899cf523f8a451868e08f538ab42293"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_warriors_steel-1/doll_warriors_steel.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_warriors_steel.png"
+
+[[pack]]
+id = "doll_wicker"
+title = "wicker"
+kind = "dolls"
+version = "1"
+size = 3046953
+sha256 = "a605db34a445c24d870b6dab150ac06b33cacab36e050f49e5543538c53aa10d"
+url = "https://github.com/Nisugi/studio_assets/releases/download/doll_wicker-1/doll_wicker.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_wicker.png"

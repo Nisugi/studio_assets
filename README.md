@@ -26,9 +26,9 @@ not installed; the installed version lives in the ledger.
 
 | Kind | Id | Where it installs |
 |---|---|---|
-| `dolls` | `doll_<picture>` | `global/images/dolls/<picture>.png`: an injury-doll picture, its calibration inside the PNG, and any overlays it has |
+| `dolls` | `doll_<name>` | `global/images/dolls/`: a style's male and female injury-doll pictures (`stealth_male_<style>.png`, `stealth_female_<style>.png`; `doll_stealth` and `doll_stealthblue` the generic pairs), or one picture (`doll_nishi`) -- each its own doll, its calibration inside the PNG, with any overlays it has |
 | `frames` | `frame_<recipe>` | `global/images/frames/packs/<id>/`: a frame recipe and the parts it names |
-| `compass` | `compass_<set>` | `global/images/compass/<set>/`: `compass.toml` (its `layout`, `hub`, and the `ways` it lights), `rose.png` at rest, and `<way>.png` for each way -- `n`, `ne`, `e`, `se`, `s`, `sw`, `w`, `nw`, `up`, `down`, `out` -- each the rose's size, drawn over it while the room has that way out |
+| `compass` | `compass_<set>` | `global/images/compass/<set>/`: `compass.toml` (its `layout` -- `hub`, `out` the rose's centre, or `column`, `out` between `up` and `down` -- and the `ways` it lights), `rose.png` at rest, and `<way>.png` for each way -- `n`, `ne`, `e`, `se`, `s`, `sw`, `w`, `nw`, `up`, `down`, `out` -- each the rose's size, drawn over it while the room has that way out |
 
 ## Making a pack
 
@@ -36,3 +36,5 @@ In gs-studio, *Export pack* on the Dolls or Frames tab (or
 `gs-studio --pack doll:<picture>` / `--pack frame:<recipe>`) writes the zip
 and its entry in `packs.toml`; the version rises only when the zip changed.
 The zip becomes a release here, and `packs.toml` is copied to this repo's top.
+The compass sets and the doll pairs were made by image-gen's
+`compass_packs.py` and `doll_packs.py`, which zip a pack the same way.
