@@ -355,10 +355,10 @@ preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/
 id = "compass_sorcerers_obsidian"
 title = "sorcerers_obsidian"
 kind = "compass"
-version = "2"
-size = 320042
-sha256 = "9adf10ea657339fc644d40dee35a44a294682a88249e73b559eab76069b487b2"
-url = "https://github.com/Nisugi/studio_assets/releases/download/compass_sorcerers_obsidian-2/compass_sorcerers_obsidian.zip"
+version = "3"
+size = 347935
+sha256 = "232c05f139abc5f6d067b414ba98d83abea89bca94f9f60416e8ef9b9a11f359"
+url = "https://github.com/Nisugi/studio_assets/releases/download/compass_sorcerers_obsidian-3/compass_sorcerers_obsidian.zip"
 preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/compass_sorcerers_obsidian.png"
 
 [[pack]]
