@@ -1530,3 +1530,103 @@ size = 393205
 sha256 = "c2a2e8db55f61089f7fc4bbce4f8409353ea193d4c72d8776d82781d753ab962"
 url = "https://github.com/Nisugi/studio_assets/releases/download/strip_overlays_wood-1/strip_overlays_wood.zip"
 preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_overlays_wood.png"
+
+[[pack]]
+id = "vessels_craft"
+title = "Vessels: Craft"
+kind = "vessels"
+version = "1"
+size = 1219858
+sha256 = "0ff76ce4e9285bb68e1e17c175b9e9db36eb492f68d4cadf9de14d731d5dffd5"
+url = "https://github.com/Nisugi/studio_assets/releases/download/vessels_craft-1/vessels_craft.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/vessels_craft.png"
+
+[[pack]]
+id = "vessels_fire_and_bone"
+title = "Vessels: Fire and bone"
+kind = "vessels"
+version = "1"
+size = 1186533
+sha256 = "a07620731b82479f9bd3021f4cac03d984a4b2bede3cea120a2444b35c7d50df"
+url = "https://github.com/Nisugi/studio_assets/releases/download/vessels_fire_and_bone-1/vessels_fire_and_bone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/vessels_fire_and_bone.png"
+
+[[pack]]
+id = "vessels_glass_and_lacquer"
+title = "Vessels: Glass and lacquer"
+kind = "vessels"
+version = "1"
+size = 1097436
+sha256 = "33e5122d9c6ae977e2f77accb01e35d721e0828895941983af4a2ab670adf479"
+url = "https://github.com/Nisugi/studio_assets/releases/download/vessels_glass_and_lacquer-1/vessels_glass_and_lacquer.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/vessels_glass_and_lacquer.png"
+
+[[pack]]
+id = "vessels_gold_and_brass"
+title = "Vessels: Gold and brass"
+kind = "vessels"
+version = "1"
+size = 1084589
+sha256 = "486e0dbeed2d4d5258fffdf2d508ea2f74795676535b4b5b9f2171f1063508c4"
+url = "https://github.com/Nisugi/studio_assets/releases/download/vessels_gold_and_brass-1/vessels_gold_and_brass.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/vessels_gold_and_brass.png"
+
+[[pack]]
+id = "vessels_living_things"
+title = "Vessels: Living things"
+kind = "vessels"
+version = "1"
+size = 1169072
+sha256 = "7b076e8c9c8e83bb90789a1becdfd4c7d06243d82d853ab6eab9b39125422c5f"
+url = "https://github.com/Nisugi/studio_assets/releases/download/vessels_living_things-1/vessels_living_things.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/vessels_living_things.png"
+
+[[pack]]
+id = "vessels_silver"
+title = "Vessels: Silver"
+kind = "vessels"
+version = "1"
+size = 1135005
+sha256 = "0e1a16f3bd1d9242c2ce10a8cdcc2b7e2f1f010f628526c4c24a3cb6eb7388fe"
+url = "https://github.com/Nisugi/studio_assets/releases/download/vessels_silver-1/vessels_silver.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/vessels_silver.png"
+
+[[pack]]
+id = "vessels_steel_and_iron"
+title = "Vessels: Steel and iron"
+kind = "vessels"
+version = "1"
+size = 1183807
+sha256 = "6f9b94ad9808198a97b1745533ed4db4de44fac002f5e2e80b5dc2cf7d5ee33d"
+url = "https://github.com/Nisugi/studio_assets/releases/download/vessels_steel_and_iron-1/vessels_steel_and_iron.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/vessels_steel_and_iron.png"
+
+[[pack]]
+id = "vessels_stone"
+title = "Vessels: Stone"
+kind = "vessels"
+version = "1"
+size = 1044947
+sha256 = "8c3f89f926015d649513ba56f5743a87f558b7ea0b3c941e2c71abc220e8bfc2"
+url = "https://github.com/Nisugi/studio_assets/releases/download/vessels_stone-1/vessels_stone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/vessels_stone.png"
+
+[[pack]]
+id = "vessels_warm_and_golden"
+title = "Vessels: Warm and golden"
+kind = "vessels"
+version = "1"
+size = 1167288
+sha256 = "7d11f37eab4a9359950aa7c0711a765ce58ce4feaf735a6c9929e923c6e1e007"
+url = "https://github.com/Nisugi/studio_assets/releases/download/vessels_warm_and_golden-1/vessels_warm_and_golden.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/vessels_warm_and_golden.png"
+
+[[pack]]
+id = "vessels_wood"
+title = "Vessels: Wood"
+kind = "vessels"
+version = "1"
+size = 1113669
+sha256 = "bf6b38b5135d9d5ad69554eeb14f81a1d4cbf153d3d723b42f85b816f5e39067"
+url = "https://github.com/Nisugi/studio_assets/releases/download/vessels_wood-1/vessels_wood.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/vessels_wood.png"
