@@ -1112,6 +1112,106 @@ url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_water
 preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_water.png"
 
 [[pack]]
+id = "orb_overlays_craft"
+title = "Orb overlays: Craft"
+kind = "orb_overlays"
+version = "1"
+size = 554682
+sha256 = "b8b782e445cd508909e848f8535bf46ba80ad839cae7ad0353eaa2fa85557cde"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_overlays_craft-1/orb_overlays_craft.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_overlays_craft.png"
+
+[[pack]]
+id = "orb_overlays_fire_and_bone"
+title = "Orb overlays: Fire and bone"
+kind = "orb_overlays"
+version = "1"
+size = 527394
+sha256 = "79f688b653755521682377ed3466b31abe803bbd23068acaa5a599cae0f1e96e"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_overlays_fire_and_bone-1/orb_overlays_fire_and_bone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_overlays_fire_and_bone.png"
+
+[[pack]]
+id = "orb_overlays_glass_and_lacquer"
+title = "Orb overlays: Glass and lacquer"
+kind = "orb_overlays"
+version = "1"
+size = 504193
+sha256 = "d443408145b9128b9bf994781b27e21f5a930cadfb03b757dddb618495f1f101"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_overlays_glass_and_lacquer-1/orb_overlays_glass_and_lacquer.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_overlays_glass_and_lacquer.png"
+
+[[pack]]
+id = "orb_overlays_gold_and_brass"
+title = "Orb overlays: Gold and brass"
+kind = "orb_overlays"
+version = "1"
+size = 566487
+sha256 = "9c29b46e5ecb2563037d1cf8b0535b72f8882ec0e7dabd28614675d5699ff1ab"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_overlays_gold_and_brass-1/orb_overlays_gold_and_brass.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_overlays_gold_and_brass.png"
+
+[[pack]]
+id = "orb_overlays_living_things"
+title = "Orb overlays: Living things"
+kind = "orb_overlays"
+version = "1"
+size = 616450
+sha256 = "aa36eae7b1ab19bbd8c230ebf10b8d766e2c037ccdff90f9a5d2e9812564ccbf"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_overlays_living_things-1/orb_overlays_living_things.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_overlays_living_things.png"
+
+[[pack]]
+id = "orb_overlays_silver"
+title = "Orb overlays: Silver"
+kind = "orb_overlays"
+version = "1"
+size = 606639
+sha256 = "5f0a2b109cce7aa9103ac47b25e3bc5a17da15b39af516f75dd0f4f1df0778bc"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_overlays_silver-1/orb_overlays_silver.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_overlays_silver.png"
+
+[[pack]]
+id = "orb_overlays_steel_and_iron"
+title = "Orb overlays: Steel and iron"
+kind = "orb_overlays"
+version = "1"
+size = 549341
+sha256 = "3a06dec8cd9bee2ad9997ea768ec305286e7117c9417e6e98f95043fb760839f"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_overlays_steel_and_iron-1/orb_overlays_steel_and_iron.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_overlays_steel_and_iron.png"
+
+[[pack]]
+id = "orb_overlays_stone"
+title = "Orb overlays: Stone"
+kind = "orb_overlays"
+version = "1"
+size = 587615
+sha256 = "b6f798ab055e0728dc8fb9d9ec5a9f8aa79ce38ac3e5a5cdfe8f2729ba4c7931"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_overlays_stone-1/orb_overlays_stone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_overlays_stone.png"
+
+[[pack]]
+id = "orb_overlays_warm_and_golden"
+title = "Orb overlays: Warm and golden"
+kind = "orb_overlays"
+version = "1"
+size = 519387
+sha256 = "18b93cb127f8620e9fd0d26a2b061a023eed820bee6392ff49e8b4456588f0e6"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_overlays_warm_and_golden-1/orb_overlays_warm_and_golden.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_overlays_warm_and_golden.png"
+
+[[pack]]
+id = "orb_overlays_wood"
+title = "Orb overlays: Wood"
+kind = "orb_overlays"
+version = "1"
+size = 582264
+sha256 = "4fcc941c9b2b7029ed2108adbcccab9d09dd46b810b92b0b624280f76eb8fd5c"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_overlays_wood-1/orb_overlays_wood.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_overlays_wood.png"
+
+[[pack]]
 id = "strip_backgrounds_glass"
 title = "Strip backgrounds: Glass tubes"
 kind = "strip_backgrounds"
