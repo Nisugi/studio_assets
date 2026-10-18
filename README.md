@@ -31,6 +31,8 @@ not installed; the installed version lives in the ledger.
 | `dolls` | `doll_<name>` | `global/images/dolls/`: a style's male and female injury-doll pictures (`stealth_male_<style>.png`, `stealth_female_<style>.png`; `doll_stealth` and `doll_stealthblue` the generic pairs), or one picture (`doll_nishi`) -- each its own doll, its calibration inside the PNG, with any overlays it has |
 | `frames` | `frame_<recipe>` | `global/images/frames/packs/<id>/`: a frame recipe and the parts it names |
 | `compass` | `compass_<set>` | `global/images/compass/<set>/`: `compass.toml` (its `layout` -- `hub`, `out` the rose's centre, or `column`, `out` between `up` and `down` -- and the `ways` it lights), `rose.png` at rest, and `<way>.png` for each way -- `n`, `ne`, `e`, `se`, `s`, `sw`, `w`, `nw`, `up`, `down`, `out` -- each the rose's size, drawn over it while the room has that way out |
+| `orb_fills` | `orb_fills_<group>` | `global/images/fills/orb/<id>/`: orb fills, `<name>.png`, 384 x 384, grey (Hydra multiplies them by the bar's colour) -- the liquid's circle centred, 0.898 of the picture (the orb overlay's opening, 0.883, plus a seam under its rim), clear round it, the same size as the overlay and background so the three stack |
+| `orb_backgrounds` | `orb_backgrounds_<set>` | `global/images/backgrounds/orb/<id>/`: empty glass drawn under an orb's fill, `<name>.png`, 384 x 384, laid out as the orb fills are (circle 0.898 of the picture, clear round it), its own opacity kept |
 
 ## Making a pack
 
