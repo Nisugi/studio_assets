@@ -1110,3 +1110,83 @@ size = 733417
 sha256 = "4ae1da81d293951d0617db9513b26f1a36a8108d71e3ae9f4b547f9ce845f4e1"
 url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_water-1/orb_fills_water.zip"
 preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_water.png"
+
+[[pack]]
+id = "strip_fills_calm_tubes"
+title = "Strip fills: Calm tubes"
+kind = "strip_fills"
+version = "1"
+size = 569401
+sha256 = "16197ae474ed25e1618eeaa94560255e998a0a4a8b93d8aa067c43d63bd7de98"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_fills_calm_tubes-1/strip_fills_calm_tubes.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_fills_calm_tubes.png"
+
+[[pack]]
+id = "strip_fills_crests_and_ripples"
+title = "Strip fills: Crests and ripples"
+kind = "strip_fills"
+version = "1"
+size = 519833
+sha256 = "5f44accc2b1b7e7e4399ae0ec284b4e3fffa84d5edb03231fb423d060731abfa"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_fills_crests_and_ripples-1/strip_fills_crests_and_ripples.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_fills_crests_and_ripples.png"
+
+[[pack]]
+id = "strip_fills_fire"
+title = "Strip fills: Fire"
+kind = "strip_fills"
+version = "1"
+size = 480628
+sha256 = "2eb254c06996538d358e85465c48304f525441cf729754ffbcb267b7db0dd25b"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_fills_fire-1/strip_fills_fire.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_fills_fire.png"
+
+[[pack]]
+id = "strip_fills_gentle_waves"
+title = "Strip fills: Gentle waves"
+kind = "strip_fills"
+version = "1"
+size = 241192
+sha256 = "0154f28e336d4920959d0a894e037eaa355d88d6abc3df5d5f4d7ce128419730"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_fills_gentle_waves-1/strip_fills_gentle_waves.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_fills_gentle_waves.png"
+
+[[pack]]
+id = "strip_fills_medium_waves"
+title = "Strip fills: Medium waves"
+kind = "strip_fills"
+version = "1"
+size = 384007
+sha256 = "9ab5b0268c3773d9100964ddb0a0a7ed278b6e88a233e612fd4ce3583849a8e1"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_fills_medium_waves-1/strip_fills_medium_waves.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_fills_medium_waves.png"
+
+[[pack]]
+id = "strip_fills_sky"
+title = "Strip fills: Sky"
+kind = "strip_fills"
+version = "1"
+size = 588527
+sha256 = "ca16fe9391cd7a5c94cacb54675dcb28c9548a136b818253ff577eaac73c10cb"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_fills_sky-1/strip_fills_sky.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_fills_sky.png"
+
+[[pack]]
+id = "strip_fills_smoke_sand_and_caustics"
+title = "Strip fills: Smoke, sand and caustics"
+kind = "strip_fills"
+version = "1"
+size = 693257
+sha256 = "0e8e3a43b8d0680dd8c75006a53cd897d2a394ed6be09117e2ed03dff783e5cc"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_fills_smoke_sand_and_caustics-1/strip_fills_smoke_sand_and_caustics.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_fills_smoke_sand_and_caustics.png"
+
+[[pack]]
+id = "strip_fills_stars_and_molten"
+title = "Strip fills: Stars and molten"
+kind = "strip_fills"
+version = "1"
+size = 795970
+sha256 = "7267ad1aba4e7cdda6d1c24995e0713f88e73952d39f15339aa9c86103bb9329"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_fills_stars_and_molten-1/strip_fills_stars_and_molten.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_fills_stars_and_molten.png"

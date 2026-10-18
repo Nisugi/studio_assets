@@ -12,7 +12,7 @@ click, never on its own.
   `sha256`, `url` and, when it has one, `preview`.
 - `previews/<id>.png`: each pack's thumbnail, what a player sees in Hydra's
   list, and on the pack's release page, before fetching it: 240 px tall, but
-  an `orb_fills` pack's is a full contact sheet (its fills in seven colours)
+  an `orb_fills` or `strip_fills` pack's is a full contact sheet (its fills in seven colours)
   that Hydra shows small and enlarges on a click.
 - The packs themselves are **release assets**, one release per pack version,
   tagged `<id>-<version>` and holding `<id>.zip`.
@@ -33,6 +33,7 @@ not installed; the installed version lives in the ledger.
 | `compass` | `compass_<set>` | `global/images/compass/<set>/`: `compass.toml` (its `layout` -- `hub`, `out` the rose's centre, or `column`, `out` between `up` and `down` -- and the `ways` it lights), `rose.png` at rest, and `<way>.png` for each way -- `n`, `ne`, `e`, `se`, `s`, `sw`, `w`, `nw`, `up`, `down`, `out` -- each the rose's size, drawn over it while the room has that way out |
 | `orb_fills` | `orb_fills_<group>` | `global/images/fills/orb/<id>/`: orb fills, `<name>.png`, 384 x 384, grey (Hydra multiplies them by the bar's colour) -- the liquid's circle centred, 0.898 of the picture (the orb overlay's opening, 0.883, plus a seam under its rim), clear round it, the same size as the overlay and background so the three stack |
 | `orb_backgrounds` | `orb_backgrounds_<set>` | `global/images/backgrounds/orb/<id>/`: empty glass drawn under an orb's fill, `<name>.png`, 384 x 384, laid out as the orb fills are (circle 0.898 of the picture, clear round it), its own opacity kept |
+| `strip_fills` | `strip_fills_<group>` | `global/images/fills/strip/<id>/`: looped strips, `<name>.png`, 96 px tall, grey, for rings (wrapped round, the length round the circle, the height across the band) and bars (laid along, the height across, repeated); the end meets the start |
 
 ## Making a pack
 
