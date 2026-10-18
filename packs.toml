@@ -922,6 +922,106 @@ url = "https://github.com/Nisugi/studio_assets/releases/download/doll_wicker-2/d
 preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_wicker.png"
 
 [[pack]]
+id = "emblems_craft"
+title = "Emblems: Craft"
+kind = "emblems"
+version = "1"
+size = 4129095
+sha256 = "d0e3f4c7ea523a3d61b30d32b447038f3bd5981bf40d29cc9f36ed615066ca40"
+url = "https://github.com/Nisugi/studio_assets/releases/download/emblems_craft-1/emblems_craft.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/emblems_craft.png"
+
+[[pack]]
+id = "emblems_fire_and_bone"
+title = "Emblems: Fire and bone"
+kind = "emblems"
+version = "1"
+size = 3961325
+sha256 = "7ef2bf85fe133d302ec65c3f22fc09723106a9351404d3b5e64c8fdc3d383fe9"
+url = "https://github.com/Nisugi/studio_assets/releases/download/emblems_fire_and_bone-1/emblems_fire_and_bone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/emblems_fire_and_bone.png"
+
+[[pack]]
+id = "emblems_glass_and_lacquer"
+title = "Emblems: Glass and lacquer"
+kind = "emblems"
+version = "1"
+size = 3911140
+sha256 = "c4b58f4cb0fed57f818be2fa18cb9314855556fc2bc278c8c834b859631bf392"
+url = "https://github.com/Nisugi/studio_assets/releases/download/emblems_glass_and_lacquer-1/emblems_glass_and_lacquer.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/emblems_glass_and_lacquer.png"
+
+[[pack]]
+id = "emblems_gold_and_brass"
+title = "Emblems: Gold and brass"
+kind = "emblems"
+version = "1"
+size = 3898164
+sha256 = "27eb921c182ee749326a55e22d55d8ee9a2ee649b337469b1d16a5cf6f927dc0"
+url = "https://github.com/Nisugi/studio_assets/releases/download/emblems_gold_and_brass-1/emblems_gold_and_brass.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/emblems_gold_and_brass.png"
+
+[[pack]]
+id = "emblems_living_things"
+title = "Emblems: Living things"
+kind = "emblems"
+version = "1"
+size = 3985533
+sha256 = "2b7909b0385bc435c81bd33229c37ccee0274f41c028878e9208a65a9f50a4fd"
+url = "https://github.com/Nisugi/studio_assets/releases/download/emblems_living_things-1/emblems_living_things.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/emblems_living_things.png"
+
+[[pack]]
+id = "emblems_silver"
+title = "Emblems: Silver"
+kind = "emblems"
+version = "1"
+size = 3869923
+sha256 = "4159868445dbf2494d6703bb1684d0279e939225242bd0e0050564c12783f2d9"
+url = "https://github.com/Nisugi/studio_assets/releases/download/emblems_silver-1/emblems_silver.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/emblems_silver.png"
+
+[[pack]]
+id = "emblems_steel_and_iron"
+title = "Emblems: Steel and iron"
+kind = "emblems"
+version = "1"
+size = 3764250
+sha256 = "1e6ca35cc9cfe65ebc7c43a0c3602a0cef76d2721ecce83c16c012f834fe5f68"
+url = "https://github.com/Nisugi/studio_assets/releases/download/emblems_steel_and_iron-1/emblems_steel_and_iron.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/emblems_steel_and_iron.png"
+
+[[pack]]
+id = "emblems_stone"
+title = "Emblems: Stone"
+kind = "emblems"
+version = "1"
+size = 3974554
+sha256 = "c3eaf2b3c57fec5996db61696a1eea8e907d069f2ca38c9128ad9a3a0bf2e6e7"
+url = "https://github.com/Nisugi/studio_assets/releases/download/emblems_stone-1/emblems_stone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/emblems_stone.png"
+
+[[pack]]
+id = "emblems_warm_and_golden"
+title = "Emblems: Warm and golden"
+kind = "emblems"
+version = "1"
+size = 3851773
+sha256 = "167836ddae00891af0817b9d95300becc1937ff274cf04fd2ba6746757cdca5c"
+url = "https://github.com/Nisugi/studio_assets/releases/download/emblems_warm_and_golden-1/emblems_warm_and_golden.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/emblems_warm_and_golden.png"
+
+[[pack]]
+id = "emblems_wood"
+title = "Emblems: Wood"
+kind = "emblems"
+version = "1"
+size = 3985285
+sha256 = "e9e37770d42474e6bd2bf1c365c1575f3c72ec37be92acd08c2fc41e1812673c"
+url = "https://github.com/Nisugi/studio_assets/releases/download/emblems_wood-1/emblems_wood.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/emblems_wood.png"
+
+[[pack]]
 id = "frame_kits_craft"
 title = "Window frames: Craft"
 kind = "frame_kits"
