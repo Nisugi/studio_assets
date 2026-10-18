@@ -922,6 +922,126 @@ url = "https://github.com/Nisugi/studio_assets/releases/download/doll_wicker-2/d
 preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_wicker.png"
 
 [[pack]]
+id = "frame_kits_craft"
+title = "Window frames: Craft"
+kind = "frame_kits"
+version = "1"
+size = 6053812
+sha256 = "17d45e95c9320df83b8b9d8057734bf7638f13d99e563bb9fb21c32227b6387c"
+url = "https://github.com/Nisugi/studio_assets/releases/download/frame_kits_craft-1/frame_kits_craft.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/frame_kits_craft.png"
+
+[[pack]]
+id = "frame_kits_fire_and_bone"
+title = "Window frames: Fire and bone"
+kind = "frame_kits"
+version = "1"
+size = 6320170
+sha256 = "76ef76af1d379a0453f04190d0bbe5f51570101aa1c8292ffbe2a57879d4271b"
+url = "https://github.com/Nisugi/studio_assets/releases/download/frame_kits_fire_and_bone-1/frame_kits_fire_and_bone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/frame_kits_fire_and_bone.png"
+
+[[pack]]
+id = "frame_kits_glass_and_lacquer"
+title = "Window frames: Glass and lacquer"
+kind = "frame_kits"
+version = "1"
+size = 5387773
+sha256 = "f00bf83f8229e084b47abca456a1232a464e904a6204a5b340b389fa343d12ab"
+url = "https://github.com/Nisugi/studio_assets/releases/download/frame_kits_glass_and_lacquer-1/frame_kits_glass_and_lacquer.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/frame_kits_glass_and_lacquer.png"
+
+[[pack]]
+id = "frame_kits_glowing_cool"
+title = "Window frames: Glowing cool"
+kind = "frame_kits"
+version = "1"
+size = 5460600
+sha256 = "d67a02c7a57ce842b2800394f945445e1b9565cc293b26ab447522f9f8490d09"
+url = "https://github.com/Nisugi/studio_assets/releases/download/frame_kits_glowing_cool-1/frame_kits_glowing_cool.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/frame_kits_glowing_cool.png"
+
+[[pack]]
+id = "frame_kits_glowing_fire"
+title = "Window frames: Glowing fire"
+kind = "frame_kits"
+version = "1"
+size = 5343966
+sha256 = "7ae3ea841f212a31f13cde03859d4f650c37eb5da902ba12d080648ab544bde2"
+url = "https://github.com/Nisugi/studio_assets/releases/download/frame_kits_glowing_fire-1/frame_kits_glowing_fire.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/frame_kits_glowing_fire.png"
+
+[[pack]]
+id = "frame_kits_gold_and_brass"
+title = "Window frames: Gold and brass"
+kind = "frame_kits"
+version = "1"
+size = 5875844
+sha256 = "f3de265f926bcf5127acb9e4c7df2c2d5d6883589724aa18cddffdea12d531d0"
+url = "https://github.com/Nisugi/studio_assets/releases/download/frame_kits_gold_and_brass-1/frame_kits_gold_and_brass.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/frame_kits_gold_and_brass.png"
+
+[[pack]]
+id = "frame_kits_living_things"
+title = "Window frames: Living things"
+kind = "frame_kits"
+version = "1"
+size = 5212837
+sha256 = "2b705fe0a3ec87cc0170b308ba4146273d4f05e074091ec7d564df00f4680a6e"
+url = "https://github.com/Nisugi/studio_assets/releases/download/frame_kits_living_things-1/frame_kits_living_things.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/frame_kits_living_things.png"
+
+[[pack]]
+id = "frame_kits_silver"
+title = "Window frames: Silver"
+kind = "frame_kits"
+version = "1"
+size = 5664283
+sha256 = "1875aaba252bf6857bdbe91d5ee81bcf9c4b1b9db1c7a7929121a0f5c2af2a3f"
+url = "https://github.com/Nisugi/studio_assets/releases/download/frame_kits_silver-1/frame_kits_silver.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/frame_kits_silver.png"
+
+[[pack]]
+id = "frame_kits_steel_and_iron"
+title = "Window frames: Steel and iron"
+kind = "frame_kits"
+version = "1"
+size = 5529643
+sha256 = "7d789d8399bacb4dcf2ba80e4ee3757e34e05c4b21729c9db75aa80e07bab22b"
+url = "https://github.com/Nisugi/studio_assets/releases/download/frame_kits_steel_and_iron-1/frame_kits_steel_and_iron.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/frame_kits_steel_and_iron.png"
+
+[[pack]]
+id = "frame_kits_stone"
+title = "Window frames: Stone"
+kind = "frame_kits"
+version = "1"
+size = 5968339
+sha256 = "e26e9f75d7fd2e361b67a062fad9574d7ed26098568d16da06f7d67c0ed31819"
+url = "https://github.com/Nisugi/studio_assets/releases/download/frame_kits_stone-1/frame_kits_stone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/frame_kits_stone.png"
+
+[[pack]]
+id = "frame_kits_warm_and_golden"
+title = "Window frames: Warm and golden"
+kind = "frame_kits"
+version = "1"
+size = 5109341
+sha256 = "e42ca4498d2c8437ce2bda6fb871fc30ccd1cdd0cabe0c8df9165c7d24a86657"
+url = "https://github.com/Nisugi/studio_assets/releases/download/frame_kits_warm_and_golden-1/frame_kits_warm_and_golden.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/frame_kits_warm_and_golden.png"
+
+[[pack]]
+id = "frame_kits_wood"
+title = "Window frames: Wood"
+kind = "frame_kits"
+version = "1"
+size = 6769791
+sha256 = "e0595ec04467c0952841f9d0e0414eb1443223feb71a41aae4e5e807041eec95"
+url = "https://github.com/Nisugi/studio_assets/releases/download/frame_kits_wood-1/frame_kits_wood.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/frame_kits_wood.png"
+
+[[pack]]
 id = "orb_backgrounds_glass"
 title = "Orb backgrounds: glass"
 kind = "orb_backgrounds"
