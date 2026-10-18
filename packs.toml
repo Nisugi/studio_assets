@@ -1310,3 +1310,103 @@ size = 795970
 sha256 = "7267ad1aba4e7cdda6d1c24995e0713f88e73952d39f15339aa9c86103bb9329"
 url = "https://github.com/Nisugi/studio_assets/releases/download/strip_fills_stars_and_molten-1/strip_fills_stars_and_molten.zip"
 preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_fills_stars_and_molten.png"
+
+[[pack]]
+id = "strip_overlays_craft"
+title = "Bar and ring overlays: Craft"
+kind = "strip_overlays"
+version = "1"
+size = 434145
+sha256 = "1d0760a6792760c5d8a6048fb435e897dede4146f63b539e163f7db90994c952"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_overlays_craft-1/strip_overlays_craft.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_overlays_craft.png"
+
+[[pack]]
+id = "strip_overlays_fire_and_bone"
+title = "Bar and ring overlays: Fire and bone"
+kind = "strip_overlays"
+version = "1"
+size = 418098
+sha256 = "006837ba31c3c4dbfefd066832a66dc50e56c2048bfc5deae4c1576092577ee5"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_overlays_fire_and_bone-1/strip_overlays_fire_and_bone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_overlays_fire_and_bone.png"
+
+[[pack]]
+id = "strip_overlays_glass_and_lacquer"
+title = "Bar and ring overlays: Glass and lacquer"
+kind = "strip_overlays"
+version = "1"
+size = 314369
+sha256 = "02195708b1c6a918a1a620e15f59dcf33d21afebf8165266328e3fb480238ef7"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_overlays_glass_and_lacquer-1/strip_overlays_glass_and_lacquer.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_overlays_glass_and_lacquer.png"
+
+[[pack]]
+id = "strip_overlays_gold_and_brass"
+title = "Bar and ring overlays: Gold and brass"
+kind = "strip_overlays"
+version = "1"
+size = 337809
+sha256 = "402bd0940177f3cf60e51ec919891a14a32a9c3950ccc6466e34e35c142eb74c"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_overlays_gold_and_brass-1/strip_overlays_gold_and_brass.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_overlays_gold_and_brass.png"
+
+[[pack]]
+id = "strip_overlays_living_things"
+title = "Bar and ring overlays: Living things"
+kind = "strip_overlays"
+version = "1"
+size = 400701
+sha256 = "03d5bceb2d8b93e8a09ceaa3015cbd201206a1d256f6742f309f834b2e074a2d"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_overlays_living_things-1/strip_overlays_living_things.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_overlays_living_things.png"
+
+[[pack]]
+id = "strip_overlays_silver"
+title = "Bar and ring overlays: Silver"
+kind = "strip_overlays"
+version = "1"
+size = 335516
+sha256 = "ef47a8d588d569119d918387f18cea63dde07dcdce5702d591f9f52787996c0d"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_overlays_silver-1/strip_overlays_silver.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_overlays_silver.png"
+
+[[pack]]
+id = "strip_overlays_steel_and_iron"
+title = "Bar and ring overlays: Steel and iron"
+kind = "strip_overlays"
+version = "1"
+size = 359419
+sha256 = "18d1fca5ab25f1a442668a586d5119c9dc8cf3acd1831287177e3a7abbd9c188"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_overlays_steel_and_iron-1/strip_overlays_steel_and_iron.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_overlays_steel_and_iron.png"
+
+[[pack]]
+id = "strip_overlays_stone"
+title = "Bar and ring overlays: Stone"
+kind = "strip_overlays"
+version = "1"
+size = 360913
+sha256 = "7dab68dddc494cd3a12dbc3af94c4a46c2021c7e99f70e58af52f65023b00390"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_overlays_stone-1/strip_overlays_stone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_overlays_stone.png"
+
+[[pack]]
+id = "strip_overlays_warm_and_golden"
+title = "Bar and ring overlays: Warm and golden"
+kind = "strip_overlays"
+version = "1"
+size = 367276
+sha256 = "efb5688aea53ac7d8cce03d110dace9cde7e5f70ad871230e54a3506613e12f7"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_overlays_warm_and_golden-1/strip_overlays_warm_and_golden.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_overlays_warm_and_golden.png"
+
+[[pack]]
+id = "strip_overlays_wood"
+title = "Bar and ring overlays: Wood"
+kind = "strip_overlays"
+version = "1"
+size = 393205
+sha256 = "c2a2e8db55f61089f7fc4bbce4f8409353ea193d4c72d8776d82781d753ab962"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_overlays_wood-1/strip_overlays_wood.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_overlays_wood.png"

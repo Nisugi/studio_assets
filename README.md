@@ -36,6 +36,7 @@ not installed; the installed version lives in the ledger.
 | `orb_overlays` | `orb_overlays_<group>` | `global/images/overlays/orb/<id>/`: orb frames, `<style>.png`, 384 x 384, painted with an empty opening (the standard 0.883 circle) and laid over the orb's background and fill, the three the same size |
 | `strip_fills` | `strip_fills_<group>` | `global/images/fills/strip/<id>/`: looped strips, `<name>.png`, 96 px tall, grey, for rings (wrapped round, the length round the circle, the height across the band) and bars (laid along, the height across, repeated); the end meets the start |
 | `strip_backgrounds` | `strip_backgrounds_<set>` | `global/images/backgrounds/strip/<id>/`: the empty track under a ring's or a bar's fill, `<name>.png`, 96 px tall, grey with its own alpha, and `backgrounds.toml`: per background `span = true` (drawn once round the ring, clockwise from the top, or once along the bar, stretched -- the graduated ones) or `false` (repeated like a fill strip) |
+| `strip_overlays` | `strip_overlays_<group>` | `global/images/overlays/strip/<id>/<style>/`: a kit for bars and rings -- `rails.png` (96 px tall, looping: a bar repeats it along its length, a ring wraps it round, the top rail outside), `cap_left.png` and `cap_right.png` (drawn over each end of a bar), `kit.toml` (`rail` and `cap`: the channel the fill goes in is rail .. height-rail and cap .. length-cap, px at 96 tall; the cap pieces' widths) |
 
 ## Making a pack
 
