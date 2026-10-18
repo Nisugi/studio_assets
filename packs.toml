@@ -1112,6 +1112,26 @@ url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_water
 preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_water.png"
 
 [[pack]]
+id = "strip_backgrounds_glass"
+title = "Strip backgrounds: Glass tubes"
+kind = "strip_backgrounds"
+version = "1"
+size = 322570
+sha256 = "a7bf0c57e64a41d96195dd7fb760fcba4736a8ad5debe54121f6a6fd0e6e59e0"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_backgrounds_glass-1/strip_backgrounds_glass.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_backgrounds_glass.png"
+
+[[pack]]
+id = "strip_backgrounds_graduated"
+title = "Strip backgrounds: Graduated"
+kind = "strip_backgrounds"
+version = "1"
+size = 9311
+sha256 = "cd4f25c9cc6259559b9ec02c0cd07a1118c012cc9631a2eb74d7dd81660d11e3"
+url = "https://github.com/Nisugi/studio_assets/releases/download/strip_backgrounds_graduated-1/strip_backgrounds_graduated.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/strip_backgrounds_graduated.png"
+
+[[pack]]
 id = "strip_fills_calm_tubes"
 title = "Strip fills: Calm tubes"
 kind = "strip_fills"
