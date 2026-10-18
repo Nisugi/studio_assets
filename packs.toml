@@ -922,6 +922,16 @@ url = "https://github.com/Nisugi/studio_assets/releases/download/doll_wicker-1/d
 preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_wicker.png"
 
 [[pack]]
+id = "orb_backgrounds_glass"
+title = "Orb backgrounds: glass"
+kind = "orb_backgrounds"
+version = "1"
+size = 359700
+sha256 = "08d6dfaaec11f579c477a987949728e23161c13c9af8468efd73ce788c1973ac"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_backgrounds_glass-1/orb_backgrounds_glass.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_backgrounds_glass.png"
+
+[[pack]]
 id = "orb_fills_arcane"
 title = "Orb fills: Arcane"
 kind = "orb_fills"
