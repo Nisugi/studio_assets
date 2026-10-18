@@ -10,8 +10,10 @@ click, never on its own.
 - `packs.toml`: every pack on offer, read raw from this repo's top by Hydra.
   Each `[[pack]]` has its `id`, `title`, `kind`, `version`, `size` (bytes),
   `sha256`, `url` and, when it has one, `preview`.
-- `previews/<id>.png`: each pack's thumbnail (240 px tall), what a player
-  sees in Hydra's list, and on the pack's release page, before fetching it.
+- `previews/<id>.png`: each pack's thumbnail, what a player sees in Hydra's
+  list, and on the pack's release page, before fetching it: 240 px tall, but
+  an `orb_fills` pack's is a full contact sheet (its fills in seven colours)
+  that Hydra shows small and enlarges on a click.
 - The packs themselves are **release assets**, one release per pack version,
   tagged `<id>-<version>` and holding `<id>.zip`.
 

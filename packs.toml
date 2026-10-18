@@ -920,3 +920,183 @@ size = 3046953
 sha256 = "a605db34a445c24d870b6dab150ac06b33cacab36e050f49e5543538c53aa10d"
 url = "https://github.com/Nisugi/studio_assets/releases/download/doll_wicker-1/doll_wicker.zip"
 preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/doll_wicker.png"
+
+[[pack]]
+id = "orb_fills_arcane"
+title = "Orb fills: Arcane"
+kind = "orb_fills"
+version = "1"
+size = 632415
+sha256 = "3614d82d2fd2694b10a0ee022b6b6fa85e6486d525a8e091cb4fdf1b808ee2ef"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_arcane-1/orb_fills_arcane.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_arcane.png"
+
+[[pack]]
+id = "orb_fills_calm_glass"
+title = "Orb fills: Calm glass"
+kind = "orb_fills"
+version = "1"
+size = 341444
+sha256 = "e31914c25867149f1c7593cc46770237a2f7eee55ea16a2a7a834839aa3c519e"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_calm_glass-1/orb_fills_calm_glass.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_calm_glass.png"
+
+[[pack]]
+id = "orb_fills_earth"
+title = "Orb fills: Molten and sand"
+kind = "orb_fills"
+version = "1"
+size = 776748
+sha256 = "1a8ca524de1ad9f19074f9492c4836e5d73e2dc808ab6392ef07b5f6750d2a3e"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_earth-1/orb_fills_earth.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_earth.png"
+
+[[pack]]
+id = "orb_fills_fire"
+title = "Orb fills: Fire"
+kind = "orb_fills"
+version = "1"
+size = 659762
+sha256 = "aa5ae5673a0e73b2a0ba19b7b7a4dcc9ea960e3e2da5a0a763afef206b42d12b"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_fire-1/orb_fills_fire.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_fire.png"
+
+[[pack]]
+id = "orb_fills_flowing_bands_1"
+title = "Orb fills: Flowing bands I"
+kind = "orb_fills"
+version = "1"
+size = 417325
+sha256 = "e5624e8c1c8bf0de0698ddceb139039eb2446474c74ae2006b10d1905adda949"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_flowing_bands_1-1/orb_fills_flowing_bands_1.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_flowing_bands_1.png"
+
+[[pack]]
+id = "orb_fills_flowing_bands_2"
+title = "Orb fills: Flowing bands II"
+kind = "orb_fills"
+version = "1"
+size = 418539
+sha256 = "bd490de1aba26887a0edd351035d336d598cd7e8c636fdbe3218060dccacbdf4"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_flowing_bands_2-1/orb_fills_flowing_bands_2.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_flowing_bands_2.png"
+
+[[pack]]
+id = "orb_fills_flowing_bands_3"
+title = "Orb fills: Flowing bands III"
+kind = "orb_fills"
+version = "1"
+size = 423463
+sha256 = "09ef9542c4631797c993231322952383f3911ed3d350daae0735e7b1d17034a7"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_flowing_bands_3-1/orb_fills_flowing_bands_3.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_flowing_bands_3.png"
+
+[[pack]]
+id = "orb_fills_glass_pinwheels_1"
+title = "Orb fills: Glass pinwheels I"
+kind = "orb_fills"
+version = "1"
+size = 431860
+sha256 = "ae4973fe1a5471e4439575010cb34302bccb9f2c1165c741336c3bbce8afc1cc"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_glass_pinwheels_1-1/orb_fills_glass_pinwheels_1.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_glass_pinwheels_1.png"
+
+[[pack]]
+id = "orb_fills_glass_pinwheels_2"
+title = "Orb fills: Glass pinwheels II"
+kind = "orb_fills"
+version = "1"
+size = 470912
+sha256 = "7b3f1670d87ea978d84260b66500b37c88cb220ffa2dad6d0d451cd79e9e840c"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_glass_pinwheels_2-1/orb_fills_glass_pinwheels_2.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_glass_pinwheels_2.png"
+
+[[pack]]
+id = "orb_fills_glass_pinwheels_3"
+title = "Orb fills: Glass pinwheels III"
+kind = "orb_fills"
+version = "1"
+size = 412044
+sha256 = "340222a8befd85e3d6c0a1a11d065bdb0455eb954d7bfb352b161aa38fef279c"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_glass_pinwheels_3-1/orb_fills_glass_pinwheels_3.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_glass_pinwheels_3.png"
+
+[[pack]]
+id = "orb_fills_ink_and_smoke"
+title = "Orb fills: Ink and smoke"
+kind = "orb_fills"
+version = "1"
+size = 667292
+sha256 = "aca1b1d5fb4b9d16328698b1ffeab014bb2f1e2c131b7104c1d496f1a1e961dc"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_ink_and_smoke-1/orb_fills_ink_and_smoke.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_ink_and_smoke.png"
+
+[[pack]]
+id = "orb_fills_milky_swirls_1"
+title = "Orb fills: Milky swirls I"
+kind = "orb_fills"
+version = "1"
+size = 355211
+sha256 = "7a3dcb7af45c1593d60550d82172f6a929baea0f988d576c3f1081b913ec7e21"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_milky_swirls_1-1/orb_fills_milky_swirls_1.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_milky_swirls_1.png"
+
+[[pack]]
+id = "orb_fills_milky_swirls_2"
+title = "Orb fills: Milky swirls II"
+kind = "orb_fills"
+version = "1"
+size = 387181
+sha256 = "b4bceb83b4670f6d116db72361ebb6ea08f7364fcaa116cf9f37cf8cf9e126c1"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_milky_swirls_2-1/orb_fills_milky_swirls_2.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_milky_swirls_2.png"
+
+[[pack]]
+id = "orb_fills_sky"
+title = "Orb fills: Sky"
+kind = "orb_fills"
+version = "1"
+size = 523550
+sha256 = "d4ba6c455d06392baf5635521ca94af22949615e23b7b1b8f5216d107aea57c8"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_sky-1/orb_fills_sky.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_sky.png"
+
+[[pack]]
+id = "orb_fills_soft_ribbons"
+title = "Orb fills: Soft ribbons"
+kind = "orb_fills"
+version = "1"
+size = 362059
+sha256 = "1c15c2feed4da1733d275b8291eb1b4bf0b32e51439886a4f4ddae2145715f39"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_soft_ribbons-1/orb_fills_soft_ribbons.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_soft_ribbons.png"
+
+[[pack]]
+id = "orb_fills_soft_swirls"
+title = "Orb fills: Soft swirls"
+kind = "orb_fills"
+version = "1"
+size = 386782
+sha256 = "235d246c92b1fa24b148a1663f6c0c51c2c777e6f2887c0c8566a4fb73cd8d9b"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_soft_swirls-1/orb_fills_soft_swirls.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_soft_swirls.png"
+
+[[pack]]
+id = "orb_fills_storm_and_stars"
+title = "Orb fills: Storm and stars"
+kind = "orb_fills"
+version = "1"
+size = 637365
+sha256 = "902ab3bcfbbd84f0dc5e457b7c0a44587a097d870cf56f406e6c5531158e1069"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_storm_and_stars-1/orb_fills_storm_and_stars.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_storm_and_stars.png"
+
+[[pack]]
+id = "orb_fills_water"
+title = "Orb fills: Water"
+kind = "orb_fills"
+version = "1"
+size = 733417
+sha256 = "4ae1da81d293951d0617db9513b26f1a36a8108d71e3ae9f4b547f9ce845f4e1"
+url = "https://github.com/Nisugi/studio_assets/releases/download/orb_fills_water-1/orb_fills_water.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/orb_fills_water.png"
