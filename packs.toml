@@ -1142,6 +1142,116 @@ url = "https://github.com/Nisugi/studio_assets/releases/download/frame_kits_wood
 preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/frame_kits_wood.png"
 
 [[pack]]
+id = "indicators_craft"
+title = "Indicators: Craft"
+kind = "indicators"
+version = "1"
+size = 2812864
+sha256 = "58050a38d7407d43e9718aa50fc9a7dbc1adda4abff98a13ea9dfdf988eb3a92"
+url = "https://github.com/Nisugi/studio_assets/releases/download/indicators_craft-1/indicators_craft.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/indicators_craft.png"
+
+[[pack]]
+id = "indicators_fire_and_bone"
+title = "Indicators: Fire and bone"
+kind = "indicators"
+version = "1"
+size = 2577115
+sha256 = "f523e49cbefbf237406d0e81d08bd6f7b85bac6ae58acd3fca8272437a3a0c41"
+url = "https://github.com/Nisugi/studio_assets/releases/download/indicators_fire_and_bone-1/indicators_fire_and_bone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/indicators_fire_and_bone.png"
+
+[[pack]]
+id = "indicators_glass_and_lacquer"
+title = "Indicators: Glass and lacquer"
+kind = "indicators"
+version = "1"
+size = 2904713
+sha256 = "ac68ed849b75a90d32989c1e6d55d0fd564e063e3f9330ff06a8480b95a46ba5"
+url = "https://github.com/Nisugi/studio_assets/releases/download/indicators_glass_and_lacquer-1/indicators_glass_and_lacquer.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/indicators_glass_and_lacquer.png"
+
+[[pack]]
+id = "indicators_gold_and_brass"
+title = "Indicators: Gold and brass"
+kind = "indicators"
+version = "1"
+size = 2906567
+sha256 = "c056d864a8586513188f912df9cc51185ae7aff39320e66b635d46af886dc1fe"
+url = "https://github.com/Nisugi/studio_assets/releases/download/indicators_gold_and_brass-1/indicators_gold_and_brass.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/indicators_gold_and_brass.png"
+
+[[pack]]
+id = "indicators_living_things"
+title = "Indicators: Living things"
+kind = "indicators"
+version = "1"
+size = 3050143
+sha256 = "ba9922cca13f8823020840550bc237f9e1ad2c0b63b321a7cdc1beab95339163"
+url = "https://github.com/Nisugi/studio_assets/releases/download/indicators_living_things-1/indicators_living_things.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/indicators_living_things.png"
+
+[[pack]]
+id = "indicators_plain"
+title = "Indicators: Plain looks"
+kind = "indicators"
+version = "1"
+size = 1903977
+sha256 = "910410e24bc65cc49323d4a257cea2189a88a691e7af1f8c5ca1ba3f3aff87f1"
+url = "https://github.com/Nisugi/studio_assets/releases/download/indicators_plain-1/indicators_plain.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/indicators_plain.png"
+
+[[pack]]
+id = "indicators_silver"
+title = "Indicators: Silver"
+kind = "indicators"
+version = "1"
+size = 2973521
+sha256 = "11fbeec176dd3e7249920d4fe51f196ee6c77f2d3f1e5095b02b22f2f059d2fa"
+url = "https://github.com/Nisugi/studio_assets/releases/download/indicators_silver-1/indicators_silver.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/indicators_silver.png"
+
+[[pack]]
+id = "indicators_steel_and_iron"
+title = "Indicators: Steel and iron"
+kind = "indicators"
+version = "1"
+size = 2789812
+sha256 = "50680e20690dd8e447255443492128d4630f5807643811c695de6af53ff1e997"
+url = "https://github.com/Nisugi/studio_assets/releases/download/indicators_steel_and_iron-1/indicators_steel_and_iron.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/indicators_steel_and_iron.png"
+
+[[pack]]
+id = "indicators_stone"
+title = "Indicators: Stone"
+kind = "indicators"
+version = "1"
+size = 2852448
+sha256 = "5fea8e1fb9ba5854ff7660215181cb9593e724dc330dda8b08a78725bc49543e"
+url = "https://github.com/Nisugi/studio_assets/releases/download/indicators_stone-1/indicators_stone.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/indicators_stone.png"
+
+[[pack]]
+id = "indicators_warm_and_golden"
+title = "Indicators: Warm and golden"
+kind = "indicators"
+version = "1"
+size = 2768291
+sha256 = "cd57deb10ee2d033bb5091bf12057585b6a3dcb59008255f1c8b6e12c50464a1"
+url = "https://github.com/Nisugi/studio_assets/releases/download/indicators_warm_and_golden-1/indicators_warm_and_golden.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/indicators_warm_and_golden.png"
+
+[[pack]]
+id = "indicators_wood"
+title = "Indicators: Wood"
+kind = "indicators"
+version = "1"
+size = 2848550
+sha256 = "f7cf63ebb392d6622ae5784cd24fd5e3046852f0f9ae7f82df2e469c7696a798"
+url = "https://github.com/Nisugi/studio_assets/releases/download/indicators_wood-1/indicators_wood.zip"
+preview = "https://raw.githubusercontent.com/Nisugi/studio_assets/main/previews/indicators_wood.png"
+
+[[pack]]
 id = "orb_backgrounds_glass"
 title = "Orb backgrounds: glass"
 kind = "orb_backgrounds"
